@@ -7,7 +7,7 @@ from groq import Groq
 
 
 
-os.environ["GROQ_API_KEY"]=api_key
+
 
 
 # Hugging Face API setup
