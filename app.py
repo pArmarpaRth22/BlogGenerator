@@ -4,7 +4,7 @@ import io
 from PIL import Image
 import streamlit as st
 from groq import Groq
-from apikey import api_key,api_key2
+
 
 
 os.environ["GROQ_API_KEY"]=api_key
