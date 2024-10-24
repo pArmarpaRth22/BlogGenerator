@@ -10,9 +10,7 @@ from groq import Groq
 
 
 
-# Hugging Face API setup
-API_URL = "https://api-inference.huggingface.co/models/ZB-Tech/Text-to-Image"
-headers = {"Authorization": f"Bearer {api_key2}"}
+
 
 st.set_page_config(layout="wide")
 
